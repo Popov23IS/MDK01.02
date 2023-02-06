@@ -1,0 +1,22 @@
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\nik-z\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\student\source\repos\Matching Game\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
