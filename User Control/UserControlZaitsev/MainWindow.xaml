@@ -1,0 +1,17 @@
+﻿<Window x:Class="UserControlZaitsev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserControlZaitsev"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:RhombusControl Header="С 23 Февраля" Description="Мужики с праздником" ColoredSource="/Assets/35159222fb92875abb3d9124a0bfbac6.jpg" ></local:RhombusControl>
+            <local:RhombusControl Header="С 8 Марта" Description="Девочки с праздником" ColoredSource="/Assets/maxresdefault.jpg" ></local:RhombusControl>
+            <local:RhombusControl Header="С Днем рождения" Description="С праздником тебя, желаю счастья, здоровья, успехов в личной жизни" ColoredSource="/Assets/screen-0.jpg" ></local:RhombusControl>
+            <local:RhombusControl Header="С Днем прогера" Description="С праздником тебя, желаю поменьше ошибок в коде" ColoredSource="/Assets/luchshie-pozdravleniya-dnem-7A92.jpg" ></local:RhombusControl>
+        </StackPanel>    
+    </Grid>
+</Window>
